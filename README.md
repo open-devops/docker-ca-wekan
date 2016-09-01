@@ -1,3 +1,5 @@
+[![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg?maxAge=2592000)](https://hub.docker.com/r/devopsopen/docker-ca-wekan/)
+
 # docker-ca-wekan
 Kanban Practice of Wekan Image for Open DevOps Pipeline
 
