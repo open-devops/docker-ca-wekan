@@ -1,0 +1,5 @@
+#  Kanban Practice of Wekan Image for Open DevOps Pipeline 
+wekan:
+  image:  devopsopen/docker-ca-wekan
+  ports:
+    - " 19080:80"
